@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pinlock_tryagain">Los códigos PIN no son iguales</string>
+    <string name="pinlock_secondPin">Ingrese el código PIN nuevamente</string>
+    <string name="pinlock_wrongpin">Código PIN incorrecto</string>
+    <string name="pinlock_secondtry">Código PIN incorrecto: Segundo intento</string>
+    <string name="pinlock_firsttry">Código PIN incorrecto: Primer intento</string>
+    <string name="pinlock_settitle">Establecer Código PIN</string>
+    <string name="pinlock_title">Ingresar Código PIN</string>
+    <string name="app_name">" "</string>
+</resources>

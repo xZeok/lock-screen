@@ -7,5 +7,5 @@
     <string name="pinlock_wrongpin">Wrong Pin code</string>
     <string name="pinlock_secondPin">Enter Pin Code Again</string>
     <string name="pinlock_tryagain">Pin Codes Are Not The Same</string>
-    <string name="pinlock_fingerprint">Use Fingerprint</string>
+    <string name="pinlock_fingerprint" translatable="false">Use Fingerprint</string>
 </resources>
